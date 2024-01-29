@@ -1,0 +1,4 @@
+employee1 = Employee(emp_id="161E90", name="Ramu", age=35, salary=59000)
+employee2 = Employee(emp_id="171E22", name="Tejas", age=30, salary=82100)
+employee3 = Employee(emp_id="171G55", name="Abhi", age=25, salary=100000)
+employee4 = Employee(emp_id="151K46", name="Jaya", age=32, salary=85000)
